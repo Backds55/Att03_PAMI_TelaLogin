@@ -90,7 +90,6 @@
                 android:gravity="right"
                 android:text="Esqueci a senha?"
                 android:textColor="#000000"
-                android:textStyle="bold"
                 android:textSize="16dp" />
         </LinearLayout>
 
